@@ -12,3 +12,4 @@ git 3
 git 4
 local one
 git5
+git 6
